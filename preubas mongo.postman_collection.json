@@ -1,0 +1,27 @@
+{
+    "_": {
+        "postman_id": "cd84550f-8e6b-46c2-9e86-1b313ed4ac54"
+    },
+    "item": [
+        {
+            "id": "28d7e7f3-b4e7-4649-adec-04d70484d11e",
+            "name": "cy",
+            "request": {
+                "url": {
+                    "query": [],
+                    "variable": []
+                },
+                "method": "GET"
+            },
+            "response": [],
+            "event": []
+        }
+    ],
+    "event": [],
+    "variable": [],
+    "info": {
+        "_postman_id": "cd84550f-8e6b-46c2-9e86-1b313ed4ac54",
+        "name": "preubas mongo",
+        "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+    }
+}
